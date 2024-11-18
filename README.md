@@ -12,7 +12,7 @@
 ## **About Me**
 
 <picture>
-  <img align="right" src="https://via.placeholder.com/250" width="250" alt="Profile Picture">
+  <img align="right" src="https://camo.githubusercontent.com/179c524e8f20f95719b0cdb3c2293f6683cc299ce804131dcc78ad25e5fdcb4f/68747470733a2f2f7777772e657863656c7074702e636f6d2f77702d636f6e74656e742f7468656d65732f657863656c7074702d636d732d6e65772f6173736574732f696d616765732f6163636f6d6f646174696f6e2f726f636b65742e676966" width="250" alt="Profile Picture">
 </picture>
 
 - 💻 Currently studying **System Analysis**  
