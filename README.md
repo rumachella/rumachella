@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Fabrizzio Rumachella</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a>
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer;System+Analysis+Student;Skills+in+Graphic+Design">
   </a>
 </p>
