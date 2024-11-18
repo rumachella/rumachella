@@ -9,7 +9,7 @@
 
 ---
 
-## <img src="http://www.syrpamontacargas.com/contacto.html" width="50"> **About Me**
+## **About Me**
 
 <picture>
   <img align="right" src="https://via.placeholder.com/250" width="250" alt="Profile Picture">
@@ -52,14 +52,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="35"> **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rumachella&show_icons=true&theme=radical" width="450">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumachella&layout=compact&theme=radical" width="400">
-</div>
-
----
 
 ## <img src="https://cdn.pixabay.com/animation/2023/04/14/09/45/09-45-44-954_512.gif" width="35"> **Connect with Me**
 
