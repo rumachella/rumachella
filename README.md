@@ -9,7 +9,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/QWjNpX0wMgh7KCIm9d/giphy.gif" width="50"> **About Me**
+## <img src="http://www.syrpamontacargas.com/contacto.html" width="50"> **About Me**
 
 <picture>
   <img align="right" src="https://via.placeholder.com/250" width="250" alt="Profile Picture">
@@ -24,7 +24,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="35"> **Skills**
+## <img src="https://media.tenor.com/szH2qsISnzMAAAAj/emoji-thinking.gif" width="35"> **Skills**
 
 ### Languages & Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -61,7 +61,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/1kJV3WdFSL4KA04wj6/giphy.gif" width="35"> **Connect with Me**
+## <img src="https://cdn.pixabay.com/animation/2023/04/14/09/45/09-45-44-954_512.gif" width="35"> **Connect with Me**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fabrizzio-rumachella-95b187299/">
