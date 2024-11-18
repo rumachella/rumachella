@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;System+Analysis+Student;Skills+in+Graphic+Design;Welcome+to+my+GitHub+profile!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer;System+Analysis+Student;Skills+in+Graphic+Design">
   </a>
 </p>
 
@@ -40,6 +40,7 @@
 
 ### Tools & Platforms
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -63,11 +64,14 @@
 ## <img src="https://media.giphy.com/media/1kJV3WdFSL4KA04wj6/giphy.gif" width="35"> **Connect with Me**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin/](https://www.linkedin.com/in/fabrizzio-rumachella-95b187299/">
+  <a href="https://www.linkedin.com/in/fabrizzio-rumachella-95b187299/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/rumachella">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:contacto.rumachella@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
